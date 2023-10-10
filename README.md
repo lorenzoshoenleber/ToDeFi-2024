@@ -22,8 +22,8 @@ To maximize the visibility and outreach for your foundation and ecosystem, we al
 ## Milestones 
 Grant Timeline: 
 1.	Design the conference program:
-  a.	Select up-to-date topics in the DeFi subject.
-  b.	Select speakers and discussants among established international researchers.
+  - Select up-to-date topics in the DeFi subject.
+  - Select speakers and discussants among established international researchers.
 2.	Preparing a webpage of the event for the sake of visibility.
 3.	Advertise the event on various platforms and social channels.
 4.	Organize the event: venue, hotel, social dinner.
@@ -32,11 +32,11 @@ Grant Timeline:
 We estimate to have total costs for the conference of about 10.000-13.000€ covering travel, accommodation, catering, and social dinner for approximately 15 invited international speakers and discussants. We would like to emphasize that any amount of sponsorship or donation would be beneficial for us since we are trying to request funding from different funding sources. Last year edition was sponsored by five different donors. 
 
 ## Budget Breakdown
-•	Travel: 4.000€ - 5.000€
-•	Hotel: 3.000€ - 4.000€
-•	Catering & Social Dinner: 2.500€-3.500€
-•	Promotion: 500€
-•	PhD Price: typically, around 500€ but the price can be anything (for example tokens, delegation rights for your DAO or company, or any other ``non-cash prize”)
+- Travel: 4.000€ - 5.000€
+- Hotel: 3.000€ - 4.000€
+- Catering & Social Dinner: 2.500€-3.500€
+- Promotion: 500€
+- PhD Price: typically, around 500€ but the price can be anything (for example tokens, delegation rights for your DAO or company, or any other ``non-cash prize”)
 
 ## About us
 My name is Lorenzo Schoenleber, I am an Assistant Professor at the Collegio Carlo Alberto & University of Turin in Italy. My area of interest is asset pricing, especially within the area of option-implied information, asset management, and decentralized finance (DeFi). I obtained my Ph.D. in Finance at the Frankfurt School of Finance and Management in 2020. I earned my B.Sc. and M.Sc. at the University of Mannheim where I studied Business Mathematics. I am currently working on various DeFi projects dealing with (i) Yield Farming and (ii) Impermanent loss.
@@ -48,11 +48,11 @@ Assisting in the organization is also Federico Faccenda, an Economics and Financ
 The Collegio Carlo Alberto is a private institution, located in the city of Turin. The institution was created in 2004 as a joint initiative of the Compagnia di San Paolo and the University of Turin. The mission of the Collegio Carlo Alberto is to promote international academic research, high-level education, and scientific outreach in the social sciences, with a particular focus on Economics and Finance.
 
 ### Additional Links
-https://www.carloalberto.org/event/todefi-torino-decentralized-finance-conference/
-https://www.carloalberto.org/wp-content/uploads/2023/02/ToDeFi-Conference-Program-2023_14_04_2023.pdf
-https://sites.google.com/view/lorenzo-schoenleber/menu
-http://robertomarfe.altervista.org/
-https://www.carloalberto.org/
-https://www.carloalberto.org/research/lti/
-https://www.carloalberto.org/education/master-in-finance/
-https://replifi.io/ 
+- https://www.carloalberto.org/event/todefi-torino-decentralized-finance-conference/
+- https://www.carloalberto.org/wp-content/uploads/2023/02/ToDeFi-Conference-Program-2023_14_04_2023.pdf
+- https://sites.google.com/view/lorenzo-schoenleber/menu
+- http://robertomarfe.altervista.org/
+- https://www.carloalberto.org/
+- https://www.carloalberto.org/research/lti/
+- https://www.carloalberto.org/education/master-in-finance/
+- https://replifi.io/ 
